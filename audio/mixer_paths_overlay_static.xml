@@ -1077,7 +1077,15 @@
         <path name="handset-dmic-dual-adc" />
     </path>
 
+<<<<<<< HEAD
     <path name="camcorder-dmic">
         <path name="handset-dmic-dual-adc" />
+=======
+    <path name="ultrasound-proximity">
+        <ctl name="Ultrasound Enable" value="On" />
+        <ctl name="Ultrasound Mode" value="774" />
+        <ctl name="Ultrasound Debug Mode" value="0" />
+        <ctl name="Ultrasound Log Level" value="0" />
+>>>>>>> 87db19f (sm8250-common: audio: Ultrasound sensor fixes)
     </path>
 </mixer>
