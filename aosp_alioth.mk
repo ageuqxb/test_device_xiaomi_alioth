@@ -16,6 +16,8 @@ $(call inherit-product, device/xiaomi/alioth/device.mk)
 
 TARGET_BOOT_ANIMATION_RES := 1080
 
+CUSTOM_BUILD_TYPE := OFFICIAL
+
 PRODUCT_NAME := aosp_alioth
 PRODUCT_DEVICE := alioth
 PRODUCT_MANUFACTURER := Xiaomi
