@@ -12,12 +12,8 @@
 -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Whether to show Minimum and Maximum refresh rate in display settings -->
-    <bool name="config_show_refresh_rate_controls">true</bool>
-    <bool name="config_supports_dynamic_refresh_rate_controls">true</bool>
-    <!-- If using legacy - please use config_show_min_refresh_rate_switch prop -->
 
-    <!-- Maintainer info -->
-    <string name="maintainer_name">AgeuQXB</string>
-    <string name="maintainer_telegram" translatable="false">https://t.me/ALSPROJECT</string>
+  <!-- Whether to show min/max refresh rate in display settings -->
+  <bool name="config_show_refresh_rate_controls">true</bool>
+  
 </resources>
